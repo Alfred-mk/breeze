@@ -37,3 +37,10 @@ Please review [our security policy](https://github.com/laravel/breeze/security/p
 ## License
 
 Laravel Breeze is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+
+## Test notes
+### Import data visualization library ###
+1. Identify the data visualization library you want to use. For me, I would go with Chart.js
+2. I would isntall the library using a package manager like npm or use the cdn of the library
+
